@@ -1,0 +1,3 @@
+/opt/CMakeLearning/test1/CMakeFiles/main.dir
+/opt/CMakeLearning/test1/CMakeFiles/edit_cache.dir
+/opt/CMakeLearning/test1/CMakeFiles/rebuild_cache.dir
