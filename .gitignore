@@ -1,0 +1,24 @@
+# 忽略所有 CMake 生成文件
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/build/
+
+# 忽略所有目标文件和库
+**/*.o
+**/*.obj
+**/*.so
+**/*.a
+**/*.lib
+**/*.dll
+
+# 忽略所有可执行文件（Linux / macOS / Windows）
+**/*.exe
+**/*.out
+**/*.bin
+
+# 忽略没有扩展名的可执行文件（例如 main、server 等）
+**/main
+**/server
+**/test
